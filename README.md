@@ -150,7 +150,7 @@ npm run dev
 
 ## 🎥 Demo
 
-[Link to 2-5 min demo video]
+https://drive.google.com/file/d/1KhNXVwFVzaPgD1G6o5rqGlzY1QIOGuv6/view?usp=sharing
 
 ## 👥 Author
 
